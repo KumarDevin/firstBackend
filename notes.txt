@@ -1,0 +1,2 @@
+first step : create empty node application
+by : npm init (in terminal)
